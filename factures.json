@@ -66,6 +66,16 @@
             "tipus": "despesa",
             "abonada": false
         },
+        {
+            "codi": 7,
+            "numero": "19/3888",
+            "data": "1548013761000",
+            "concepte": "Disseny logo",
+            "base": 670,
+            "tipusIva": 21,
+            "tipus": "despesa",
+            "abonada": false
+        }
 
 	
 
